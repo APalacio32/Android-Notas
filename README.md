@@ -1,5 +1,4 @@
 # Sources to learn Android
-
 --
 Learn Android Resources
 
