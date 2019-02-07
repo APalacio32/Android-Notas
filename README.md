@@ -1,4 +1,4 @@
-# Sources to learn Android
+# Sources to learn Android :books: :mag:
 
 Android
 ---
