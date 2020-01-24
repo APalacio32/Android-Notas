@@ -13,16 +13,7 @@ Udacity Nanodegrees
 - [Projects](https://github.com/Madonahs/Nano-Degree-Projects)
 - [Resources](https://github.com/udacityalumni/udacity-nanodegrees-resources)
 
-Android Architecture
----
-- [Android Architecture](https://github.com/googlesamples/android-architecture)
-- [Android MVVM Architecture](https://github.com/MindorksOpenSource/android-mvvm-architecture)
-
 Android Blogs
 ---
 - [Blogs About Android](https://github.com/vbauer/android-blogs)
 - [JournalDev](https://github.com/journaldev/journaldev)
-
-Dagger
----
-- [Learn Dagger](https://github.com/abhiank/LearnDagger)
